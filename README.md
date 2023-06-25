@@ -1,6 +1,8 @@
 # Potentia
 Third Person Shooter Game Mekanikleri
 
+https://drive.google.com/drive/folders/1jK6IoZFWxZSxYUM8TUnfTLuRzhotmWSj?usp=sharing
+
 Karakter seçimi
 
 Farklı silah türleri
@@ -25,4 +27,4 @@ Mağaza sistemi
 
 Destruct Sistem (Rayfire ile entegre)
 
-https://drive.google.com/drive/folders/1jK6IoZFWxZSxYUM8TUnfTLuRzhotmWSj?usp=sharing
+
